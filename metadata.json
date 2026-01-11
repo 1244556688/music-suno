@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Sonic Player",
+  "description": "A high-end, AI-enhanced music player featuring real-time audio visualization and mood-based playlist curation powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
